@@ -7,4 +7,5 @@
 
 免费提供windows版本给大家，自行替换。
 需要linux版本的，联系作者详谈。
+二次元、CC、小黄人等破解也可。
 TG群： https://t.me/MinerProxyHackGO
