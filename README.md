@@ -1,14 +1,14 @@
-### Linux一鍵管理脚本(自帶崩潰重啟，但無開機自啟)
-```shell
-# 一键安装命令，安装过程需要输入钱包替换作者抽水：
-bash <(curl -s -L https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/releases/download/1.3.9/manage.sh)
+<h4 align="left">### Linux一鍵管理脚本(自帶崩潰重啟，但無開機自啟)</h4>
+<h4 align="left">```shell</h4>
+<h4 align="left"># 一键安装命令，安装过程需要输入钱包替换作者抽水：</h4>
+<h4 align="left">bash <(curl -s -L https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/releases/download/1.3.9/manage.sh)</h4>
 
-windows版本，到release文件夹，下载windows压缩包。
+<h4 align="left">windows版本，到release文件夹，下载windows压缩包。</h4>
 
-使用前，务必阅读使用说明.doc。 自定义设置E池和鱼池。
+<h4 align="left">使用前，务必阅读使用说明.doc。 自定义设置E池和鱼池。</h4>
 
-## :scroll: 開發抽水
-* 原作者恆定0.3%是假的！！！ 破解返回实现0抽。 共约E池共同见证原作者黑心抽血比例
+<h4 align="center">## :scroll: 開發抽水</h4></h4>
+<h4 align="center">* 原作者恆定0.3%是假的！！！ 破解返回实现0抽。 共约E池共同见证原作者黑心抽血比例</h4>
 
 
 <h1 align="center">
