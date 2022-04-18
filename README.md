@@ -11,10 +11,15 @@
 <h4 align="center">* 原作者恆定0.3%是假的！！！ 破解返回实现0抽。 共约E池共同见证原作者黑心抽血比例</h4>
 <h4 align="center">* 这是市面上唯一一款可以防止CC攻击的，破解真香！</h4>
 
-
+<h4 align="center">* Windows破解界面</h4>
 <h1 align="center">
   <br>
-  <img src="https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/blob/main/images/winChangeWallet.png" width="350"/>
+  <img src="https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/blob/main/images/winChangeWallet.png" width="800"/>
+</h1>
+<h4 align="center">* Linux破解界面</h4>
+<h1 align="center">
+  <br>
+  <img src="https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/blob/main/images/changeWallet.png" width="800"/>
 </h1>
 <h1 align="center">
   <br>
