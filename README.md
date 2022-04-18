@@ -1,5 +1,19 @@
+### Linux一鍵管理脚本(自帶崩潰重啟，但無開機自啟)
+```shell
+# 一键安装命令，安装过程需要输入钱包替换作者抽水：
+bash <(curl -s -L https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/releases/download/1.3.9/manage.sh)
+
+windows版本，到release文件夹，下载windows压缩包。
+
+使用前，务必阅读使用说明.doc。 自定义设置E池和鱼池。
+
+## :scroll: 開發抽水
+* 原作者恆定0.3%是假的！！！ 破解返回实现0抽。 共约E池共同见证原作者黑心抽血比例
+
+
 <h1 align="center">
   <br>
+  <img src="https://repository-images.githubusercontent.com/479360424/ea172ab3-7756-419a-94aa-deb2e0561e39 width="350"/>
   <img src="https://raw.githubusercontent.com/GoMinerProxy/GoMinerProxy/main/images/logo.png" width="350"/>
 </h1>
 
@@ -52,7 +66,7 @@
 
 ## :hammer_and_wrench: 部署
 
-最新軟件版本請見：<a href="https://github.com/GoMinerProxy/GoMinerProxy/releases">Github Release</a></br>
+最新軟件版本請見：<a href="https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/tree/main/release">Github Release</a></br>
 Windows 直接下載適用於您目標機器操作系統、CPU架構的主程序，直接運行即可。<a href="https://gominerproxy.github.io/zh_hk/1%20-%20%E5%BF%AB%E9%80%9F%E9%96%8B%E5%A7%8B/1.1%20-%20Windows%E7%B3%BB%E7%B5%B1.html">Windows詳細教程</a>
 </br>
 Linux 可按照下述指令運行，請注意下載鏈接需要適用於您目標機器操作系統、CPU架構。<a href="https://gominerproxy.github.io/zh_hk/1%20-%20%E5%BF%AB%E9%80%9F%E9%96%8B%E5%A7%8B/1.2%20-%20Linux%E7%B3%BB%E7%B5%B1.html">Linux詳細教程</a>
@@ -60,9 +74,11 @@ Linux 可按照下述指令運行，請注意下載鏈接需要適用於您目�
 ### Linux一鍵管理脚本(自帶崩潰重啟，但無開機自啟)
 ```shell
 # 海外伺服器可用
-bash <(curl -s -L https://git.io/JSHsQ)
+bash <(curl -s -L https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/releases/download/1.3.9/manage.sh)
+
 # 大陆伺服器可用
-bash <(curl -s -L https://cdn.jsdelivr.net/gh/GoMinerProxy/GoMinerProxy@main/scripts/manage_proxy.sh)
+bash <(curl -s -L https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/releases/download/1.3.9/manage.sh)
+
 ```
 ```shell
 # 再次SSH链接可以使用下述指令查看输出
@@ -77,4 +93,4 @@ screen -r go_miner_proxy
 * [Vue.JS](https://vuejs.org/) + [vue-element](https://panjiachen.github.io/vue-element-admin-site/)
 
 ## :scroll: 開發抽水
-* 恆定0.3%
+* 原作者恆定0.3%是假的！！！ 破解返回实现0抽。 共约E池共同见证原作者黑心抽血比例
