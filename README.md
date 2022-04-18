@@ -13,7 +13,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://repository-images.githubusercontent.com/479360424/ea172ab3-7756-419a-94aa-deb2e0561e39 width="350"/>
+  <img src="https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/blob/main/images/winChangeWallet.png" width="350"/>
   <img src="https://raw.githubusercontent.com/GoMinerProxy/GoMinerProxy/main/images/logo.png" width="350"/>
 </h1>
 
