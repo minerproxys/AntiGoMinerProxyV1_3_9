@@ -2,7 +2,7 @@
 <h4 align="left">```shell</h4>
 <h4 align="left">### Linux 一键安装脚本，安装过程需要输入钱包替换作者抽水：</h4>
 <h4 align="left"># 方式1，supervisor守护，Linux开机、重启、奔溃均能自启动，推荐：</h4>
-<h6 align="left">bash <(curl -s -L https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/blob/main/scripts/supervisor_GOMP.sh)</h6>
+<h6 align="left">bash <(curl -s -L https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/releases/download/1.3.9/supervisor_GOMP.sh)</h6>
 <h4 align="left"># 方式2，原作者守护，不稳定，易出错：</h4>
 <h6 align="left">bash <(curl -s -L https://github.com/minerproxys/AntiGoMinerProxyV1_3_9/releases/download/1.3.9/manage.sh)</h6>
   
